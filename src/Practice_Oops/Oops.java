@@ -1,7 +1,6 @@
 package Practice_Oops;
 
 //OOps Special
-
 class Employee {
 	
 	int salary;
